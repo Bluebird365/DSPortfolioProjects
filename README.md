@@ -1,4 +1,4 @@
-1. Postgresql queries to explore COVID-19 data from 2020 to 2021. This data file is used to create dashboard in Tableau - here https://public.tableau.com/app/profile/kalyan.mutyala/viz/COVIDDashboard_17077915439430/Dashboard1
+1. Postgresql queries to explore COVID-19 data from 2020 to 2021. EV Sales data from 2010 - 2022. Take a look at the dashboards here https://public.tableau.com/app/profile/kalyan.mutyala/vizzes
 
 2. Housing Data from Nashville cleaned using SQL
 
